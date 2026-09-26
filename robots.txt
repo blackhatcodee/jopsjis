@@ -1,4 +1,6 @@
+# robots.txt for GitHub Pages Event Directory Hub
 User-agent: *
 Allow: /
 
+# XML Sitemap for Googlebot & Bingbot
 Sitemap: https://blackhatcodee.github.io/jopsjis/sitemap.xml
